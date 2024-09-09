@@ -1,13 +1,5 @@
 ## Project Scraping & Crawling for Data Engineering
 
----
-title: 'Proceso de extracción de contenidos y datos de sitios web para la medición de los negocios en la economía de internet'
-
-date:
-
-lang: es-MX
-...
-
 # Objetivo
 
 Aprovechar la información de los sitios web con dominio mexicano y extraer información para el análisis del contenido de los datos y su vinculación con el Registro Estadístico de Negocios de México (RENEM) para la identificación y análisis de la economía digital.
