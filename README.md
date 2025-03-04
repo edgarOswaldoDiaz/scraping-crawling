@@ -8,11 +8,11 @@ Aprovechar la información de los sitios web con dominio mexicano y extraer info
 
 Para atender los objetivos específicos del proyecto, que incluyen la obtención de un listado de sitios de Internet de negocios con dominio mexicano y sus características para vincularlos con el RENEM mediante web scraping, se propone la siguiente metodología:
 
-#. Selección de Sitios Web: Identificar y listar sitios web relevantes con dominio mexicano, enfocándose en aquellos que pertenecen a negocios y empresas.
-#. Desarrollo de Herramientas de Web Scraping: Crear o adaptar herramientas específicas de web scraping que sean capaces de extraer información relevante de estos sitios de manera eficiente y respetando las normativas legales y éticas.
-#. **Extracción de Datos**: Utilizar las herramientas de web scraping para recolectar datos específicos de los sitios web seleccionados, como el tipo de negocio, servicios ofrecidos, datos de contacto, entre otros.
-#. **Análisis y Clasificación de Datos**: Analizar los datos recopilados para clasificarlos y organizarlos de manera que puedan ser fácilmente vinculados con la información existente en el RENEM.
-#. **Integración de Datos con el RENEM**: Desarrollar un sistema o metodología para integrar de forma eficaz los datos recopilados con la base de datos del RENEM, asegurando la precisión y la actualización de la información.
+1. Selección de Sitios Web: Identificar y listar sitios web relevantes con dominio mexicano, enfocándose en aquellos que pertenecen a negocios y empresas.
+2. Desarrollo de Herramientas de Web Scraping: Crear o adaptar herramientas específicas de web scraping que sean capaces de extraer información relevante de estos sitios de manera eficiente y respetando las normativas legales y éticas.
+3. **Extracción de Datos**: Utilizar las herramientas de web scraping para recolectar datos específicos de los sitios web seleccionados, como el tipo de negocio, servicios ofrecidos, datos de contacto, entre otros.
+4. **Análisis y Clasificación de Datos**: Analizar los datos recopilados para clasificarlos y organizarlos de manera que puedan ser fácilmente vinculados con la información existente en el RENEM.
+5. **Integración de Datos con el RENEM**: Desarrollar un sistema o metodología para integrar de forma eficaz los datos recopilados con la base de datos del RENEM, asegurando la precisión y la actualización de la información.
 
 # Sitios Web
 
